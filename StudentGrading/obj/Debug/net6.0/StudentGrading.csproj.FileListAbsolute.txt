@@ -1,0 +1,14 @@
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0\StudentGrading.exe
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0\StudentGrading.deps.json
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0\StudentGrading.runtimeconfig.json
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0\StudentGrading.dll
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\bin\Debug\net6.0\StudentGrading.pdb
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.AssemblyInfoInputs.cache
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.AssemblyInfo.cs
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.dll
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\refint\StudentGrading.dll
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.pdb
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\StudentGrading.genruntimeconfig.cache
+C:\Users\Nedder3\source\repos\StudentGrading\StudentGrading\obj\Debug\net6.0\ref\StudentGrading.dll
